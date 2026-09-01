@@ -7,6 +7,7 @@
 
 #Initiate the flask app : TODO
 
+
 @app.route("/sentimentAnalyzer")
 def sent_analyzer():
     ''' This code receives the text from the HTML interface and 
